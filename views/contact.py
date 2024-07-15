@@ -36,7 +36,7 @@ button[type=submit]:hover {
 
 # HTML form
 html_form = """
-<form action="https://formsubmit.co/nitish.pkv@gmail.com" method="POST">
+<form action="https://formsubmit.co/thanujakedila@gmail.com" method="POST">
      <input type="hidden" name="_captcha" value="false">
      <input type="text" name="name" placeholder="Your name" required>
      <input type="email" name="email" placeholder="Your email" required>
