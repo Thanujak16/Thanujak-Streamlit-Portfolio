@@ -65,7 +65,6 @@ with col7:
     st.subheader('Certification')
     git = '[@Excel Skills for Business: Essentials](https://www.coursera.org/account/accomplishments/verify/7BWAKJ5B56V8?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)'
     st.markdown(git, unsafe_allow_html=True)
-    st.subheader('Certification')
     excel = '[@Excel Skills for Business: Intermediate I](https://www.coursera.org/account/accomplishments/verify/FRVYT9QX429E)'
     st.markdown(excel, unsafe_allow_html=True)
     tableau = '[@Fundamentals of Visualization with Tableau](https://www.coursera.org/account/accomplishments/verify/39BDWRCZHYDH)'
