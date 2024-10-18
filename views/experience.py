@@ -15,10 +15,10 @@ with col2:
     st.write("Bangalore,Karnataka")
 st.write(
     """
-    - Performing an in-depth analysis on data using SmartSheets,
-    - Strong hands-on experience and knowledge in Smartsheets,
-    - Creating and maintaining the dashboards,
-    - Creating Metrics and carrying out indepth analysis on the same
+    - Using Smartsheets developed project tracking metrics and dashboards for valuable insights.
+    - Built EC architecture for enhanced customer project management.,
+    - Designed user-friendly architecture and workflows for efficient data handling,
+    - Created VOC architecture with automated workflows for streamlined processes.
     """
 )
 st.write("\n")
