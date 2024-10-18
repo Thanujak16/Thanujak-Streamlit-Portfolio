@@ -56,7 +56,7 @@ with col5:
     st.write("Karnataka Veterinary, Animal and Fisheries Sciences University", anchor=False)
 
 with col6:
-    st.write("Jan. 2023 – Nov 2023")
+    st.write("Jan. 2022 – Nov 2023")
     st.write("Bangalore,Karnataka")
 
 
